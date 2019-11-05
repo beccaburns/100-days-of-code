@@ -29,11 +29,24 @@ Since you requested a mobileapp we need to re-allocate resources and won't be ab
 
 ### Day 1: November 5, 2019
 
-**Today's Progress**: 
+**Today's Progress**: We started today with a scrum at 9am to review yesterdays progress and to-dos for today. Today we worked on the Stripe cypress tests. We were having issues with the user authorization - 
+**For context:**
+- A visitor can subscribe
+- A subscriber can view articles
+- A journalist can write articles
+- An editor can publish journalist articles
 
-**Thoughts**: 
+To fix this issue, we had to make some changes to the test to make sure that a subscriber and a journalist was actually being created. 
+We also updated the seed file on the backend to display articles in a list format.
+And on the front end, we created happy & sad paths for viewing a single article. 
 
-**Link(s) to work**: []()
+**Thoughts**: Today was a challenging day. As projects become more complex, and more features are added, I realize the importance of organized pair-programming and teamwork/collaboration. My team consists of individuals at varying skill levels. This is beneficial as it promotes teaching and growth, but as fast-paced individuals gain traction, it can leave others behind without an understanding of what the code does/or how to test it. 
+
+We recognized this half way through the day and took some time to communicate with one another about the code that we wrote and made a plan for next steps. The second half of the day was very productive and I sensed a collaborative environment that was lacking prior to our discussion.
+
+**Link(s) to work**: 
+- [Classy News - Frontend](https://github.com/CraftAcademy/classy_news_client)
+- [Classy News - Backend](https://github.com/CraftAcademy/classy_news_backend)
 
 
 ### Day 2: November 6, 2019
