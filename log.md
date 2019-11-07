@@ -51,21 +51,33 @@ We recognized this half way through the day and took some time to communicate wi
 
 ### Day 2: November 6, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Yesterday was a good day! So good, I spent the whole day in code mode and forgot to take time to write my summary of the day.
 
-**Thoughts** 
+So, here it is. 
+
+Yesterday, my pair-programming team worked with REACT Native to create a mobile app for our "clients." I worked primarily on the front end in ReactJS to refactor our code and create a navbar component. We updated the routes with user authorization so that, depending on the user role, we are able to direct them to the right place.
+
+**Thoughts** I went to a meetup last night for a product called Encore. A software engineer from Spotify developed a way to simplify the backend programming process. It was encouraging to be there and understand his references and makes me realize how much I learned in such a short period of time.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [User can view Navbar](https://github.com/CraftAcademy/classy_news_client/pull/18)
 
 ### Day 3: November 7, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I started the day with an online Kattis Logical Thinking Test for an application. I then began doing a bit of research on Kubernetes since this seems to be commonly used. Kubernetes is an open source container-orchestration system developed by Google and now maintained by Cloud Native Computing Foundation. It automates the distribution and scheduling of application containers across a cluster in a more efficient way.
+
+I used the [Kubernetes Documentation](https://kubernetes.io/docs/tutorials/kubernetes-basics/)and tutorials to learn the following; 
+- Deploy a containerized application on a cluster.
+- Scale the deployment.
+- Update the containerized application with a new software version.
+- Debug the containerized application.
+
 
 **Thoughts** 
 
 **Link(s) to work**
+1. 
+2. 
 
 ### Day 4: November 8, 2019
 
