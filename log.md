@@ -72,20 +72,22 @@ I used the [Kubernetes Documentation](https://kubernetes.io/docs/tutorials/kuber
 - Update the containerized application with a new software version.
 - Debug the containerized application.
 
+The rest of the day was spent working on the navbar branch, making sure of the right route paths for the user experience.
 
 **Thoughts** 
 
 **Link(s) to work**
-1. 
-2. 
+1. [ClassyNews](https://github.com/beccaburns/classy_news_client/tree/navbar)
 
 ### Day 4: November 8, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today was the day of debugging! I worked with my partner on debugging a new branch that we created for Classy News called navbar. After updating the semantic ui and css, we ran our tests through Cypress and almost all of them failed. YAY! So we went to town with "debugger" and worked through each test until we found the solutions. In our case, we needed to update the id's and create messaging for the user. 
 
-**Thoughts** 
+**Thoughts** It has been a good experience to work with my partner and to use the debugger. The more I use debugger or in the case of RoR(binding.pry), the more comfortable I feel and the better I understand the problem and in turn, the right solution.
 
 **Link(s) to work**
+1. [ClassyNews](https://github.com/beccaburns/classy_news_client/tree/navbar)
+
 
 ### Day 4: November 9, 2019
 
