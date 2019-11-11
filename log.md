@@ -92,8 +92,10 @@ The rest of the day was spent working on the navbar branch, making sure of the r
 ### Day 4: November 9, 2019
 
 **Today's Progress**: 
+The day of debugging and presentation prep.
 
 **Thoughts** 
+Three weeks is too short to "finish" a fullstack web application.
 
 **Link(s) to work**
 
@@ -101,13 +103,49 @@ The rest of the day was spent working on the navbar branch, making sure of the r
 
 **Today's Progress**: 
 
+Practice JS tests on Qualified today.
+ie. For this practice challenge, write a simple greeter function.
+- If it is passed in a name NAME, return 'Hello, NAME!.
+- If it is called without a name, return 'Hello there!.
+
+```js
+function sayHello (name) {
+  if(name) {
+    return "Hello, " + name + "!";
+  } else {
+    return "Hello there!"
+  }
+  
+  console.log(name);
+  return name; 
+}
+```
+```js
+let assert = require("chai").assert;
+describe('Challenge', function() {
+  it('should say hello', function() {
+    assert.equal(sayHello("name"), "Hello, name!");
+  });
+  it('should handle blank input', function() {
+    assert.equal(sayHello(""), "Hello there!");
+  });
+});
+```
+
+My new team for the final project spent the full day creating lofi's and setting up our PT with user stories and tasks for the weeks ahead.
+
 **Thoughts** 
+I am eager to get started with applications and interviews for a role as a junior developer. The coding tests are quite a challenge, so I am going to start dedicating myself to codewars throughout the week.
 
 **Link(s) to work**
+
+1. [PT-Link](https://www.pivotaltracker.com/n/projects/2417177)
 
 ### Day 6: November 11, 2019
 
 **Today's Progress**: 
+- 7:45-8:45a - job applications
+
 
 **Thoughts** 
 
