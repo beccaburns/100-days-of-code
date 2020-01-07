@@ -141,17 +141,16 @@ I am eager to get started with applications and interviews for a role as a junio
 
 1. [PT-Link](https://www.pivotaltracker.com/n/projects/2417177)
 
-### Day 6: November 11, 2019
+### Day 6: January 7, 2020
 
 **Today's Progress**: 
-- 7:45-8:45a - job applications
-
-
-**Thoughts** 
+First day back to coding after a bit of a break. I took time off during my application process and during the holiday break. Today, I started slow by beginning with ReactJS. I am going to create a ReactJS portfolio blog for a project I would like to work on over the next couple of months.
 
 **Link(s) to work**
 
-### Day 7: November 12, 2019
+1. [GitHub Link](https://github.com/beccaburns/react_portfolio_100Days)
+
+### Day 7: January 8, 2020
 
 **Today's Progress**: 
 
